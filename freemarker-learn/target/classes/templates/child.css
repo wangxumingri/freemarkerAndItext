@@ -1,0 +1,20 @@
+div {
+     margin: 0 auto;
+     width: 80%;
+     height: 80%;
+    border: 1px solid salmon;
+ }
+table{
+
+}
+caption {
+    vertical-align: middle;
+    text-align: center;
+    font-size: 22px;
+}
+
+td {
+    vertical-align: middle;
+    text-align: center;
+    font-size: 10px;
+}
